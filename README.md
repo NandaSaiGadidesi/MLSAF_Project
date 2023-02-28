@@ -1,8 +1,8 @@
 # MLSAF_Project
-ML Security and Fairness Project
+## ML Security and Fairness Project
 
 Implementation of the method proposed in the paper:
-Adversarial Attacks on Neural Networks for Graph Data
+# Adversarial Attacks on Neural Networks for Graph Data
 
 by Daniel Zügner, Amir Akbarnejad and Stephan Günnemann.
 Published at SIGKDD'18, August 2018, London, UK

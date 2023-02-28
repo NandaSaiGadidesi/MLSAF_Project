@@ -1,5 +1,5 @@
 # MLSAF_Project
-ML Security and Fairness Project
+## ML Security and Fairness Project
 
 Implementation of the method proposed in the paper:
 Adversarial Attacks on Neural Networks for Graph Data
